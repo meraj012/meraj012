@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Md Meraj Ansari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://github.com/user-attachments/assets/f66ac2cf-a340-468c-8f19-2a4ce87f49ff" align="right" width="400" alt="codingGIF" >
+<img align="right" alt="coding-gif" width="400"  border-radius="20px" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meraj012&label=Profile%20views&color=0e75b6&style=flat" alt="meraj012" /> </p>
 
 - 🔭 I’m currently working on [eCommerce website](loading...)
